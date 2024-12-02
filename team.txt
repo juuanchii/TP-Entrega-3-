@@ -1,0 +1,8 @@
+Desarrollador 1
+Nombre: Tu Nombre
+Nick en Telegram: TuNick
+
+Desarrollador 2
+Nombre: Nombre Compañero
+Nick en Telegram: NickCompañero
+
